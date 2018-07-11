@@ -15,7 +15,7 @@ include('datenbank_anbindung.php');
          <article>                                                                                            <!-- Artikelaufbau, linke Seite der Website-->
             <h2>Terminkalender</h2>																			  <!-- Überschrift des Artikels-->
             <img src="Kalenderbild.jpg" />                                                                    <!-- Bild unter der Überschrift-->
-            <p style="text-indent:30px;">Bitte legen Sie das Vortragsdatum fest</p>                           <!-- Hier wird der Text 30px nach rechts eingerückt damit er genau unter dem Bild liegt -->
+            <p style="text-indent:30px;">Bitte legen Sie das Vortragsdatum fest hh</p>                           <!-- Hier wird der Text 30px nach rechts eingerückt damit er genau unter dem Bild liegt -->
            <?php include('index.php')?> </article>
          <?php
             include('seitenleiste.php');
